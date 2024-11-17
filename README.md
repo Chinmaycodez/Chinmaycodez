@@ -1,4 +1,7 @@
-🌱 I’m currently learning and exploring various concepts in AI, including machine learning, natural language processing, and computer vision.
-🔭 I’m working on personal projects to apply AI techniques to real-world problems and enhance my skills.
-👯 I’m looking to collaborate on open-source projects related to AI or any innovative tech that piques my interest.
-💬 Ask me about AI, c++ programming, or anything tech-related! I'm always eager to share and learn.
+🌟 About Me
+
+💻 I’m a passionate student with strong knowledge of C++, Java, and Python.
+📚 Currently exploring Data Structures and Algorithms (DSA) in C++.
+🔍 Fascinated by AI and its real-world applications, working on personal projects to enhance my skills.
+🛠️ I love learning and collaborating on tech ideas that inspire innovation.
+🚀 Always open to discussions and challenges in AI, programming, and problem-solving!
